@@ -7,6 +7,7 @@ public class AdvancedLoop {
 
         for(int h:i)
         {
+            System.out.println("This is Advanced for loop");
             System.out.println(h);
         }
         for(String k:j)
