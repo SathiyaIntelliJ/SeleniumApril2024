@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class SearchResultPage
 {
-    WebDriver driver;
+WebDriver driver;
 public String getTitleOfSearchPage()
 {
     return driver.getTitle();
